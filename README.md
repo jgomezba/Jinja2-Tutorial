@@ -99,7 +99,7 @@ Common filters:
 {% endblock %}
 
 ```
-Python Code
+### Python Code
 ```python
 from jinja2 import Environment, FileSystemLoader
 
@@ -140,7 +140,6 @@ print(rendered_output)
 </body>
 </html>
 ```
-<img src="Images/Website_Screenshot.png" alt="isolated" width="600"/>
 
 ## Example usage
 
@@ -173,6 +172,7 @@ print(rendered_output)
     {% endfor %}
 </catalog>
 ```
+### Python Code
 ```python
 from jinja2 import Environment, FileSystemLoader
 import xml.etree.ElementTree as ET
