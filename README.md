@@ -140,6 +140,7 @@ print(rendered_output)
 </body>
 </html>
 ```
+![Output](images/output_html.PNG)
 
 ## Example usage
 
